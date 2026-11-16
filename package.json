@@ -1,0 +1,8 @@
+{
+  "name": "aikido-sca-demo",
+  "version": "1.0.0",
+  "description": "Demo repository voor Aikido SCA PR Gating",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
